@@ -1,0 +1,8 @@
+.par{
+    text-align: center;
+    font-size: 2rem;
+    
+}
+body{
+    background:linear-gradient(to left, blue, pink, purple);
+}

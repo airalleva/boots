@@ -1,0 +1,100 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    width: auto;
+    background:linear-gradient(to left, blue, pink, purple);
+   
+}
+*{
+    margin: 0px;
+    padding: 0px;
+    width: auto;
+}
+.header{
+    background-color: black;
+    position: relative;
+    height: 50px;
+}
+.logo{
+    border-radius: 100%;
+    width: 6%;
+    height: 90%;
+    margin-left: 3%;
+}
+.nav-item{
+    
+    position: relative;
+    font-size: 20px;
+    margin-left: 10px;
+    left: 60%;
+    color: whitesmoke;
+
+}
+.leather{
+    text-align: center;
+}
+.nav{
+    width: 20%;
+    height: 30%;
+}
+.nav1{
+    width: 20%;
+    height: 30%;
+}
+.nav2{
+    width: 20%;
+    height: 30%;
+}
+.row{
+    text-align: center;
+}
+.item1{
+    width: 40%;
+    height: 60%;
+    border: 3px ridge black;
+
+}
+.item2{
+    width: 40%;
+    height: 60%;
+    border: 3px ridge black;
+}
+.item3{
+    width: 40%;
+    height: 60%;
+    border: 3px ridge black;
+}
+.leath{
+    width: 50px;
+    height: 500px;
+}
+
+.footer-1
+{
+    
+    position: relative;
+    text-align: center;
+    top: 15rem;
+    background-color: black;
+    background-size: none;
+    padding-top: 2rem;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    padding-bottom: 3rem;
+    margin-right: -15rem;
+    margin-left: -1rem;
+    margin-bottom: -1rem;
+}
+#copyr
+{
+    text-align: center;
+    color: whitesmoke;
+}
+.links
+{
+    position: relative;
+    text-align: center;
+    margin-left: 10px;
+    color: whitesmoke;
+}
+
